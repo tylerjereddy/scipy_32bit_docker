@@ -1,3 +1,3 @@
-i686/ubuntu:latest
+FROM i686/ubuntu:latest
 
 
